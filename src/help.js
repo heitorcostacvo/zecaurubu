@@ -23,7 +23,7 @@ const help = (prefix) => {
 │ • *${prefix}frangoexpress* -  🐔
 ╰────────
 ╭─「*ADMINISTRAÇÃO*」
-│ • *${prefix}listadms* - Lista de Administradores da CPV.*
+│ • *${prefix}listadms* - Lista de Administradores.*
 │ • *${prefix}add* - Adicionar uma pessoa, ex: *${prefix}add 55219XXXXXXXX*
 │ • *${prefix}sadm* - Remover ADM.*
 │ • *${prefix}ban* - Banir qualquer membro.*
