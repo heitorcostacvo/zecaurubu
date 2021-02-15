@@ -677,7 +677,7 @@ async function starts() {
 				    if (args.length < 1) return reply ('puta fala do meu nome\nela nunca superou\ntira meu nome da boca\nhoje eu to superior\nela é uma cachorra\nvai sempre pra onde eu to\nnao tenho papo que faz curva\nfodase oq ja falo\n\n*https://youtu.be/jTkOas8greA - Like e se inscreve pra ajudar nosso YungGott 👺✌️*')
 		            		break
 		            	case 'clonacartao':
-				    if (args.length < 1) return reply ('*✅ CARTÃO CLONADO COM SUCESSO ✅*\n*BANDEIRA*: MASTERCARD\n*NUMERO*: 554298602161309\n*BANCO:* BANCO BRADESCO, S.A.\n*CVV:* 452\n*NOME:* THIAGO MOURA ALMEIDA NERI\n')	
+				    if (args.length < 1) return reply ('*✅ CARTÃO CLONADO COM SUCESSO ✅*\n*BANDEIRA*: MASTERCARD\n*NUMERO*: 554298602161309\n*BANCO:* BANCO BRADESCO, S.A.\n*CVV:* 452\n*NOME:* IRENE ALVES DOS SANTOS\n')	
 					break
 				case 'matlastore':
 				    if (args.length < 1) return reply ('*As melhores camisas de futebol, NBA e de todo mundo, você só encontra aqui!*\n*Instagram:*https://instagram.com/matlastoreoficial\n*WhatsApp:* https://wa.me/5521983617581\n*Membro CPV possui 10% off na primeira compra com cupom #MATLACPV*')
